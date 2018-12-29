@@ -1,0 +1,17 @@
+threshold for intersection has to be low.
+
+edit distance performs better than JS.
+
+first alphabet is correct.
+
+modified edit distance.
+
+dataset limitations.
+
+pickled representation of stored data.
+
+no differentiation b/w cases.
+
+key error implies spelling mistake.
+
+Spelling mistake identification based on the number of hits(or key error).
