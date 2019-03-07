@@ -33,8 +33,8 @@ suggestion and the query.
 ### Limitations
 1) Since Reuters data is data primarily used for text classification, general web queries
 are not relevant.
-2) It is not a learning based model , therefore this model is not very user friendly.
-Findings
+2) No corrections are suggested for stopwords. Stop words are not suggested as corrections either.
+### Findings
 1) Threshold for length of intersection of posting lists had to be kept low (4) for relevant
 results to be displayed.
 2) For finding list of closewords , modified edit distance approach works better than
